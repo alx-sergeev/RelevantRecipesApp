@@ -5,4 +5,4 @@
 iOS 15.0+
 
 # Tech Stack
-Swift, SwiftUI, MVVM, Combine, CoreData/UserDefaults/FileManager, REST API
+Swift, SwiftUI, MVVM, Combine, CoreData/UserDefaults/FileManager, API
